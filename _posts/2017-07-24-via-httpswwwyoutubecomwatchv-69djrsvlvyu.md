@@ -1,0 +1,13 @@
+---
+layout: post
+title: no title
+date: '2017-07-24T22:59:45+09:00'
+tags: []
+tumblr_url: https://sheeplesssheepless.tumblr.com/post/163391756558/via-httpswwwyoutubecomwatchv-69djrsvlvyu
+---
+<iframe width="400" height="300" id="youtube_iframe" src="https://www.youtube.com/embed/69djRSvLVyU?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+(via [https://www.youtube.com/watch?v=69djRSvLVyU](https://www.youtube.com/watch?v=69djRSvLVyU))
+
+“In general, I try and distinguish between what one calls the Future and “l’avenir” [the ‘to come]. The future is that which – tomorrow, later, next century – will be. There is a future which is predictable, programmed, scheduled, foreseeable. But there is a future, l’avenir (to come) which refers to someone who comes whose arrival is totally unexpected. For me, that is the real future. That which is totally unpredictable. The Other who comes without my being able to anticipate their arrival. So if there is a real future, beyond the other known future, it is l’avenir in that it is the coming of the Other when I am completely unable to foresee their arrival.”
+
