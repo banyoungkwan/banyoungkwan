@@ -252,7 +252,8 @@ em, i { font-style: italic; }
 }
 
 .post iframe {
-	text-align: center;
+	position: relative;
+    overflow: hidden;
 }
 
 #post-list h2 {
