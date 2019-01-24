@@ -1,6 +1,6 @@
 title: banyoungkwan's [b]log
 description: Aber es war genug.
-meta_description: 'Youngkwan Ban, or Ban Youngkwan's blog'
+meta_description: "Youngkwan Ban, or Ban Youngkwan's blog"
 baseurl: "" 
 aboutPage: true
 title_separator: '-'
@@ -9,16 +9,16 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'https://banyoungkwan.github.io'
+domain_name: "https://banyoungkwan.github.io"
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 
 # Details for the RSS feed generator
-url:            'https://banyoungkwan.github.io'
-author:         'Ban Youngkwan'
-authorTwitter:  '_sheepless'
+url: "https://banyoungkwan.github.io"
+author: "Ban Youngkwan"
+authorTwitter: "_sheepless"
 
 permalink:       /:year/:title/
 
