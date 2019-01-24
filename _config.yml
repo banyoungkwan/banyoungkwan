@@ -1,9 +1,9 @@
 title: banyoungkwan's [b]log
 description: Aber es war genug.
 meta_description: "Youngkwan Ban, or Ban Youngkwan's blog"
-baseurl: "/banyoungkwan" 
+baseurl: "" 
 aboutPage: true
-
+title_separator: "-"
 markdown: kramdown
 highlighter: rouge
 
@@ -16,7 +16,7 @@ disqus_shortname: 'your-disqus-shortname'
 
 
 # Details for the RSS feed generator
-url:            'http://banyoungkwan.github.io'
+url:            "https://banyoungkwan.github.io"
 author:         'Ban Youngkwan'
 authorTwitter:  '_sheepless'
 
