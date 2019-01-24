@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Valley Queen | Supergiant
 date: '2018-07-18T11:56:34+09:00'
 tags: []
 tumblr_url: https://sheeplesssheepless.tumblr.com/post/176024220348/valley-queen-supergiant

@@ -7,10 +7,9 @@ tumblr_url: https://sheeplesssheepless.tumblr.com/post/174638693818/poetry-is-ve
 ---
 > Poetry is Vertical
 
-—
 
-> On a été trop horizontal, j'ai envie d'étre vertical.  
-> — Léon Paul Fargue
+>> On a été trop horizontal, j'ai envie d'étre vertical.  
+>> — Léon Paul Fargue
 
 In a world ruled by the hypnosis of positivism, we proclaim the autonomy of the poetic vision, the hegemony of the inner life over the outer life.
 

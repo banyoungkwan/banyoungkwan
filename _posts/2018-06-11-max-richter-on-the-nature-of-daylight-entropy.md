@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Max Richter | On The Nature Of Daylight
 date: '2018-06-11T12:42:07+09:00'
 tags: []
 tumblr_url: https://sheeplesssheepless.tumblr.com/post/174791459118/max-richter-on-the-nature-of-daylight-entropy

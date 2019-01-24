@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lisa mychols lost winter's dream
+title: Lisa Mychols | lost winter's dream
 date: '2017-12-10T21:58:00+09:00'
 tags: []
 tumblr_url: https://sheeplesssheepless.tumblr.com/post/168414668198/lisa-mychols-lost-winters-dream

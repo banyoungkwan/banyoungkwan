@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: strange-but-elegant
 date: '2018-02-12T16:49:41+09:00'
 tags: []
 tumblr_url: https://sheeplesssheepless.tumblr.com/post/170810012883/strange-but-elegant
