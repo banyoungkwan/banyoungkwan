@@ -1,7 +1,7 @@
-name: banyoungkwan's [b]log
+title: banyoungkwan's [b]log
 description: Aber es war genug.
 meta_description: "Youngkwan Ban, or Ban Youngkwan's blog"
-
+baseurl: "/banyoungkwan" 
 aboutPage: true
 
 markdown: kramdown
