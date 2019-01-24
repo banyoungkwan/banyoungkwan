@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Arvo Pärt | Symphony No. 4 'Los Angeles'
 date: '2015-01-31T22:35:28+09:00'
 tags: []
 tumblr_url: https://sheeplesssheepless.tumblr.com/post/109735009608/arvo-pärt-symphony-no-4-los-angeles-uk

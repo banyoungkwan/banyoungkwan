@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: andata
 date: '2017-04-29T22:34:46+09:00'
 tags: []
 tumblr_url: https://sheeplesssheepless.tumblr.com/post/160138008408/n-andata-f-plural-andate-outward-journey
