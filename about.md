@@ -4,16 +4,16 @@ permalink: about/
 profile: true
 ---
 <p></p>
-## Hello!
+## My name!
 <p></p> 
-My name is Youngkwan Ban. I go by Ban. I know, it is little bit weird to call someone’s family name. But I prefer this way. 
+My name is Youngkwan Ban. You can call me Ban.  
 
-I had choices. At least I believe it had. I could ask you to call me Youngkwan; maybe Young-kwan, so non-Korean speakers could pronounce more like Korean (luckyly, my name do not have “ㄹ", pronounced like "L" or "R” in Korean language). I could be just Young, using my first phoneme. Maybe I could use Andrew, or _Andre_ with the noble French accent, which is my old baptismal name, received when I was the age of five.
+You can call me like that because I chose to be. Perhaps I could insist you to name my full first name, Youngkwan. Maybe I can offer a hyphen between "Young" and "Kwan," so non-Korean speakers could pronounce my name more like a Korean. 
 
-Not always I have this choice. I was Youngtwan Bao, two months ago. I was Mr Kwan around eight months ago. I was Yi; I used to be YK (Yay-Kay) for many times I need to get dry-cleaning or restaurant reservations. You don’t know how the emigrant, whose mother tongue is not English or European, get easily frustrated when we spell strange alphabets over the phone.
+I could be just Young, using my first phoneme. This is a common solution to deal with long, tedious and unrememberable Korean names for many. Perhaps I could use Andrew, or _Andre_ with a French nasal accent, that is my old baptismal name. 
 
-So I never am the one who I really want to be, maybe? In exchange, listen to this, now I ended up to be really good at this, “So my name is Bravo, Alpha, November that’s for my last name. And my first name is "Yankee-Oscar-Uniform-November-Golf-Kilo-Whiskey-Alpha-November.” 
+Naming yourself is your apparatus to reality. It interchanges, back and forth, yourself and the outside. But what if the outside denies calling me with my name? "Youngtwan (pause) Bao?" A staff in a coffee shop called me like this about two months ago. Before, I was Mr. Kwan. I was Yi. So now I surrender; I used to be YK (Yay-Kay) for many times I need to get dry-cleaning or restaurant reservations. You don’t know how an immigrant, whose mother tongue is not English or European, can be easily frustrated when we spell strange alphabets over the phone. Now I am good at this, “So my name is (pause) Yankee-Oscar-Uniform-November-Golf-Kilo-Whiskey-Alpha-November.” 
 
-Well, nevermind. Doesn't matter who I am. This is a personal blog anyway. 
+Well, nevermind. It doesn't matter who I am. Oh, by the way, this is my personal blog. And, call me any name, sound, or exclamation as you want. 
 
 {% include footer.html %}
