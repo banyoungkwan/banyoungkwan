@@ -1,22 +1,43 @@
-# ----------- CONFIGURABLE START -----------
-title:            "Scribble"
-description:      "Such theme, very cool."
-url:              http://scribble.muan.co # Site url, without a slash at the end.
-signoff:          "muan" # Your name
-facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share:            false # Turn on twitter and facebook share buttons
+name: banyoungkwan's [b]log
+description: Aber es war genug.
+meta_description: "Youngkwan Ban, or Ban Youngkwan's blog"
 
-links:
-  - name:         Posts
-    url:          /
-    external:     false
-  - name:         About me
-    url:          /about
-    external:     false
-# ------------ CONFIGURABLE END ------------
+aboutPage: true
 
-permalink:        /posts/:title
+markdown: kramdown
+highlighter: rouge
+
+plugins: [jekyll-paginate]
+paginate: 20
+domain_name: 'http://banyoungkwan.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+repository: 'banyoungkwan/banyoungkwan'
+
+# Details for the RSS feed generator
+url:            'http://banyoungkwan.github.io'
+author:         'Ban Youngkwan'
+authorTwitter:  '_sheepless'
+
+permalink:       /:year/:title/
+
 defaults:
-  - values:
-      layout: "default"
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
