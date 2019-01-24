@@ -13,3 +13,5 @@ Naming yourself is your apparatus to reality. It interchanges, back and forth, y
 
 So I never am the one who I really want to be, maybe? In exchange, listen to this, now I ended up to be really good at this, “So my name is Bravo, Alpha, November that’s for my last name. And my first name is "YankeeOscarUniformNovemberGolfKiloWhiskeyAlphaNovember.” Lots of November, huh? But still, I kept finding something like Youngtwan Bao in my bills.
 
+-{% include footer.html %}
+
