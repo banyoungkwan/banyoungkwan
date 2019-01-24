@@ -252,7 +252,7 @@ em, i { font-style: italic; }
 }
 
 iframe {
-	position: relative;
+	position: center;
     width: 100%;
     overflow: hidden;
 }
