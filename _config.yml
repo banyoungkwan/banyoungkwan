@@ -1,11 +1,30 @@
-name: banyoungkwan's [b]log
+title: banyoungkwan's [b]log
 description: Aber es war genug.
 meta_description: "Youngkwan Ban, or Ban Youngkwan's blog"
 
 aboutPage: true
 
+source              : .
+destination         : ./_site
+collections_dir     : .
+plugins_dir         : _plugins
+layouts_dir         : _layouts
+data_dir            : _data
+includes_dir        : _includes
+collections:
+  posts:
+    output          : true
+
 markdown: kramdown
 highlighter: rouge
+
+safe                : false
+include             : [".htaccess"]
+exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+keep_files          : [".git", ".svn"]
+encoding            : "utf-8"
+markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter : false
 
 plugins: [jekyll-paginate]
 paginate: 20
@@ -17,9 +36,10 @@ repository: 'banyoungkwan/banyoungkwan'
 
 
 # Details for the RSS feed generator
-url:            'http://banyoungkwan.github.io'
+url:            'https://banyoungkwan.github.io'
 author:         'Ban Youngkwan'
 authorTwitter:  '_sheepless'
+production_url: https://moon9342.github.io/
 
 permalink:       /:year/:title/
 
