@@ -7,11 +7,7 @@ aboutPage: true
 markdown: kramdown
 highlighter: rouge
 
-plugins_dir: ./_scripts
-
-plugins: 
-    - jekyll-paginate
-    - jekyll-youtube
+plugins: [jekyll-paginate]
 paginate: 20
 domain_name: 'http://banyoungkwan.github.io'
 google_analytics: 'UA-XXXXXXXX-X'

@@ -251,8 +251,9 @@ em, i { font-style: italic; }
 	  display: inline-block;
 }
 
-.post iframe {
+iframe {
 	position: relative;
+    width: 100%;
     overflow: hidden;
 }
 
