@@ -1,4 +1,4 @@
-name: banyoungkwan's [b]log
+title: banyoungkwan's [b]log
 description: Aber es war genug.
 meta_description: "Youngkwan Ban, or Ban Youngkwan's blog"
 
@@ -17,9 +17,11 @@ disqus_shortname: 'your-disqus-shortname'
 
 
 # Details for the RSS feed generator
-url: 'https://banyoungkwan.github.io'
+url: https://banyoungkwan.github.io
 author: 'Ban Youngkwan'
 authorTwitter: '_sheepless'
+baseurl: /
+production_url: https://banyoungkwan.github.io/
 
 permalink:       /:year/:title/
 
@@ -42,3 +44,10 @@ defaults:
             type: drafts
         values:
             layout: post
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - .DS_Store
