@@ -7,13 +7,18 @@ aboutPage: true
 markdown: kramdown
 highlighter: rouge
 
-plugins: [jekyll-paginate]
+plugins_dir: ./_scripts
+
+plugins: 
+    - jekyll-paginate
+    - jekyll-youtube
 paginate: 20
 domain_name: 'http://banyoungkwan.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 repository: 'banyoungkwan/banyoungkwan'
+
 
 # Details for the RSS feed generator
 url:            'http://banyoungkwan.github.io'

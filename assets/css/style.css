@@ -251,6 +251,10 @@ em, i { font-style: italic; }
 	  display: inline-block;
 }
 
+.post iframe {
+	text-align: center;
+}
+
 #post-list h2 {
 	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #aaa;
