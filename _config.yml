@@ -3,6 +3,8 @@ description: Aber es war genug.
 meta_description: "Youngkwan Ban, or Ban Youngkwan's blog"
 
 aboutPage: true
+
+aboutPage: true
 markdown: kramdown
 highlighter: rouge
 
@@ -18,7 +20,6 @@ disqus_shortname: 'your-disqus-shortname'
 url: 'https://banyoungkwan.github.io'
 author: 'Ban Youngkwan'
 authorTwitter: '_sheepless'
-baseurl: "" 
 
 permalink:       /:year/:title/
 
