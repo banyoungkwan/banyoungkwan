@@ -4,7 +4,7 @@ permalink: about/
 profile: true
 ---
 <p></p>
-# hi
+## Hello!
 <p></p> 
 My name is Youngkwan Ban. I go by Ban. I know, it is little bit weird to call someone’s family name. But I prefer this way. 
 
@@ -14,6 +14,6 @@ Not always I have this choice. I was Youngtwan Bao, two months ago. I was Mr Kwa
 
 So I never am the one who I really want to be, maybe? In exchange, listen to this, now I ended up to be really good at this, “So my name is Bravo, Alpha, November that’s for my last name. And my first name is "Yankee-Oscar-Uniform-November-Golf-Kilo-Whiskey-Alpha-November.” 
 
-Well, nevermind. Doesn't matter who I am. This is personal blog anyway. 
+Well, nevermind. Doesn't matter who I am. This is a personal blog anyway. 
 
 {% include footer.html %}
