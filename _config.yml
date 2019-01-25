@@ -11,7 +11,7 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 20
 domain_name: 'https://banyoungkwan.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-133233714-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
