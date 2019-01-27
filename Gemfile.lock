@@ -81,6 +81,7 @@ GEM
       octokit (~> 4.0)
       public_suffix (~> 2.0)
       typhoeus (~> 1.3)
+    hpricot (0.8.6)
     html-pipeline (2.10.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
@@ -211,6 +212,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     octokit (4.13.0)
       sawyer (~> 0.8.0, >= 0.5.3)
+    open_uri_redirections (0.2.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -245,7 +247,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  hpricot
   jekyll-youtube
+  open_uri_redirections
 
 BUNDLED WITH
    2.0.1
