@@ -5,7 +5,7 @@ date: '2018-04-13T21:49:17+09:00'
 tags: []
 tumblr_url: https://sheeplesssheepless.tumblr.com/post/172911233468/bedouine-solitary-daughter-i-am-a-lake
 ---
-<iframe width="400" height="300" id="youtube_iframe" src="https://www.youtube.com/embed/8P5A3RZd86c?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe id="youtube_iframe" src="https://www.youtube.com/embed/8P5A3RZd86c?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 > I am a lake, don’t need to be watered
 I am an ocean, I don’t need to barter
