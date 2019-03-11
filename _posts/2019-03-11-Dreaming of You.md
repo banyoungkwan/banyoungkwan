@@ -1,6 +1,5 @@
 ---
 layout: post
-title: 망상
+title: 신혜경 | Dreaming of You
 ---
-
-<iframe src="https://www.youtube.com/watch?v=Bpti40P7vrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=Bpti40P7vrc" frameborder="0"></iframe>
